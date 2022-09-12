@@ -1,4 +1,5 @@
 .#{$rt-namespace}__toast-container {
+  background-color: red;
   z-index: var(--toastify-z-index);
   -webkit-transform: translate3d(0, 0, var(--toastify-z-index) px);
   position: fixed;
